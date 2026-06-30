@@ -26,7 +26,7 @@
 
 public class AboutMe extends Student { 
     public static void main(String[] args) {
-        String role = "Computer Engineering - Senior Student (2026)";
+        String role = "Computer Engineering Student in My Last Year";
         String focus = "Full-Stack Development";
         String[] coreLanguages = {"Java", "TypeScript", "JavaScript", "Python"};
         String[] webAndData = {"HTML", "CSS", "MySQL"};
