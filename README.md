@@ -1,7 +1,11 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+# 👋 Hi there, I'm Ahmad Alamin! 
+##  Computer Engineering Senior Student & Full-Stack Developer
+
+###  Welcome to my digital workspace! I build scalable web applications and software solutions.
+
+<br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ahmadamin30&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
